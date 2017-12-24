@@ -39,7 +39,7 @@ def reformat_languages(languages)
 
    It should match the following format:
 
-  ```ruby
+  ruby
   {
     :ruby => {
       :type => "interpreted",
